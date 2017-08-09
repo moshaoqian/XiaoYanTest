@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor blueColor];
+    NSLog(@"xiaoyan app");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
