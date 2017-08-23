@@ -19,6 +19,7 @@
     self.view.backgroundColor = [UIColor blueColor];
     NSLog(@"xiaoyan app");
     NSLog(@"???");
+    NSLog(@"测试");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
